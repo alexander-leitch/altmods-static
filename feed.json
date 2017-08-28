@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "http://altmods.com/getting-started-on-new-tech.html",
-            "url": "http://altmods.com/getting-started-on-new-tech.html",
+            "id": "http://altmods.com/getting-started-on-new-tech/",
+            "url": "http://altmods.com/getting-started-on-new-tech/",
             "title": "Getting Started on new tech",
             "content_html": "Currently adding new method of creating this site.",
             "image": "http://altmods.com/media/posts/2/14212682_671481723008571_5771237814713032117_n.jpg",
@@ -20,7 +20,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T16:22:24+02:00",
+            "date_published": "2017-08-28T19:35:27+02:00",
             "date_modified": "2017-08-28T16:22:13+02:00"
         }
     ]

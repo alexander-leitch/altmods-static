@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>altmods</title>
+    <link href="http://altmods.com/feed.xml" rel="self" />
+    <link href="http://altmods.com" />
+    <updated>2017-08-28T15:45:22+02:00</updated>
+    <author>
+        <name>Alexander Leitch</name>
+    </author>
+    <id>http://altmods.com</id>
+
+    <entry>
+        <title>Testing Publii</title>
+        <author>
+            <name>Alexander Leitch</name>
+        </author>
+        <link href="http://altmods.com/testing-publii.html"/>
+        <id>http://altmods.com/testing-publii.html</id>
+
+        <updated>2017-08-28T15:20:18+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://altmods.com/media/posts/1/0014335704.jpg" alt="" />
+                Content here?
+            ]]>
+        </content>
+    </entry>
+</feed>

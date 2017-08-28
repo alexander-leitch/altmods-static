@@ -10,18 +10,17 @@
     },
     "items": [
         {
-            "id": "http://altmods.com/testing-publii.html",
-            "url": "http://altmods.com/testing-publii.html",
-            "title": "Testing Publii",
-            "content_html": "Content here?",
-            "image": "http://altmods.com/media/posts/1/0014335704.jpg",
+            "id": "http://altmods.com/getting-started-on-new-tech.html",
+            "url": "http://altmods.com/getting-started-on-new-tech.html",
+            "title": "Getting Started on new tech",
+            "content_html": "Currently adding new method of creating this site.",
             "author": {
                 "name": "Alexander Leitch"
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T16:10:44+02:00",
-            "date_modified": "2017-08-28T15:20:18+02:00"
+            "date_published": "2017-08-28T16:17:28+02:00",
+            "date_modified": "2017-08-28T16:15:50+02:00"
         }
     ]
 }

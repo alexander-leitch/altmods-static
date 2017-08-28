@@ -3,26 +3,25 @@
     <title>altmods</title>
     <link href="http://altmods.com/feed.xml" rel="self" />
     <link href="http://altmods.com" />
-    <updated>2017-08-28T16:10:44+02:00</updated>
+    <updated>2017-08-28T16:17:28+02:00</updated>
     <author>
         <name>Alexander Leitch</name>
     </author>
     <id>http://altmods.com</id>
 
     <entry>
-        <title>Testing Publii</title>
+        <title>Getting Started on new tech</title>
         <author>
             <name>Alexander Leitch</name>
         </author>
-        <link href="http://altmods.com/testing-publii.html"/>
-        <id>http://altmods.com/testing-publii.html</id>
+        <link href="http://altmods.com/getting-started-on-new-tech.html"/>
+        <id>http://altmods.com/getting-started-on-new-tech.html</id>
 
-        <updated>2017-08-28T15:20:18+02:00</updated>
+        <updated>2017-08-28T16:15:50+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://altmods.com/media/posts/1/0014335704.jpg" alt="" />
-                Content here?
+                Currently adding new method of creating this site.
             ]]>
         </content>
     </entry>

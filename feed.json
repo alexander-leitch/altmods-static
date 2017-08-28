@@ -2,25 +2,25 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "altmods",
     "description": "",
-    "home_page_url": "https://alexander-leitch.github.io/altmods-static",
-    "feed_url": "https://alexander-leitch.github.io/altmods-static/feed.json",
+    "home_page_url": "http://altmods.com",
+    "feed_url": "http://altmods.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Alexander Leitch"
     },
     "items": [
         {
-            "id": "https://alexander-leitch.github.io/altmods-static/testing-publii.html",
-            "url": "https://alexander-leitch.github.io/altmods-static/testing-publii.html",
+            "id": "http://altmods.com/testing-publii.html",
+            "url": "http://altmods.com/testing-publii.html",
             "title": "Testing Publii",
             "content_html": "Content here?",
-            "image": "https://alexander-leitch.github.io/altmods-static/media/posts/1/0014335704.jpg",
+            "image": "http://altmods.com/media/posts/1/0014335704.jpg",
             "author": {
                 "name": "Alexander Leitch"
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T15:49:03+02:00",
+            "date_published": "2017-08-28T16:06:59+02:00",
             "date_modified": "2017-08-28T15:20:18+02:00"
         }
     ]

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>altmods</title>
-    <link href="https://alexander-leitch.github.io/altmods-static/feed.xml" rel="self" />
-    <link href="https://alexander-leitch.github.io/altmods-static" />
-    <updated>2017-08-28T15:49:03+02:00</updated>
+    <link href="http://altmods.com/feed.xml" rel="self" />
+    <link href="http://altmods.com" />
+    <updated>2017-08-28T16:06:59+02:00</updated>
     <author>
         <name>Alexander Leitch</name>
     </author>
-    <id>https://alexander-leitch.github.io/altmods-static</id>
+    <id>http://altmods.com</id>
 
     <entry>
         <title>Testing Publii</title>
         <author>
             <name>Alexander Leitch</name>
         </author>
-        <link href="https://alexander-leitch.github.io/altmods-static/testing-publii.html"/>
-        <id>https://alexander-leitch.github.io/altmods-static/testing-publii.html</id>
+        <link href="http://altmods.com/testing-publii.html"/>
+        <id>http://altmods.com/testing-publii.html</id>
 
         <updated>2017-08-28T15:20:18+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://alexander-leitch.github.io/altmods-static/media/posts/1/0014335704.jpg" alt="" />
+                    <img src="http://altmods.com/media/posts/1/0014335704.jpg" alt="" />
                 Content here?
             ]]>
         </content>

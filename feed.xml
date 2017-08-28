@@ -3,7 +3,7 @@
     <title>altmods</title>
     <link href="http://altmods.com/feed.xml" rel="self" />
     <link href="http://altmods.com" />
-    <updated>2017-08-28T19:35:27+02:00</updated>
+    <updated>2017-08-28T19:41:20+02:00</updated>
     <author>
         <name>Alexander Leitch</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="http://altmods.com/getting-started-on-new-tech/"/>
         <id>http://altmods.com/getting-started-on-new-tech/</id>
+            <category term="test"/>
 
-        <updated>2017-08-28T16:22:13+02:00</updated>
+        <updated>2017-08-28T19:41:09+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

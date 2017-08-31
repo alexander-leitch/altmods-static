@@ -3,12 +3,29 @@
     <title>altmods</title>
     <link href="http://altmods.com/feed.xml" rel="self" />
     <link href="http://altmods.com" />
-    <updated>2017-08-28T19:41:20+02:00</updated>
+    <updated>2017-08-31T15:43:53+02:00</updated>
     <author>
         <name>Alexander Leitch</name>
     </author>
     <id>http://altmods.com</id>
 
+    <entry>
+        <title>Doing things with photo&#x27;s I&#x27;ve taken.</title>
+        <author>
+            <name>Alexander Leitch</name>
+        </author>
+        <link href="http://altmods.com/doing-things-with-photos-ive-taken/"/>
+        <id>http://altmods.com/doing-things-with-photos-ive-taken/</id>
+
+        <updated>2017-08-31T15:43:41+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://altmods.com/media/posts/3/img_0560-2.jpg" alt="" />
+                This was one of the photo's I took a little while ago at a Wolf Clothing..
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Getting Started on new tech</title>
         <author>

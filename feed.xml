@@ -3,7 +3,7 @@
     <title>altmods</title>
     <link href="http://altmods.com/feed.xml" rel="self" />
     <link href="http://altmods.com" />
-    <updated>2017-09-02T18:09:16+02:00</updated>
+    <updated>2017-09-02T18:28:59+02:00</updated>
     <author>
         <name>Alexander Leitch</name>
     </author>
@@ -36,12 +36,14 @@
         <id>http://altmods.com/getting-started-on-new-tech/</id>
             <category term="Tech"/>
 
-        <updated>2017-08-28T19:41:09+02:00</updated>
+        <updated>2017-09-02T18:28:47+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="http://altmods.com/media/posts/2/14212682_671481723008571_5771237814713032117_n.jpg" alt="" />
-                Currently adding new method of creating this site.
+                <p>Currently adding new method of creating this site.</p>
+<p>Testing out <a title="Get Publii" href="https://getpublii.com" target="_blank" rel="noopener noreferrer">Publii</a>&nbsp;on this site.&nbsp;</p>
+<p>Source is getting saved to cloud drive so I can share with others, then static files are going on <a href="http://www.github.com" target="_blank" rel="noopener noreferrer">Github</a>'s GH Pages system and getting served by them.</p>
             ]]>
         </content>
     </entry>

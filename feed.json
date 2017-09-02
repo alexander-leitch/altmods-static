@@ -21,14 +21,14 @@
             "tags": [
                    "MyPics"
             ],
-            "date_published": "2017-09-02T18:09:16+02:00",
+            "date_published": "2017-09-02T18:28:59+02:00",
             "date_modified": "2017-09-02T18:04:38+02:00"
         },
         {
             "id": "http://altmods.com/getting-started-on-new-tech/",
             "url": "http://altmods.com/getting-started-on-new-tech/",
             "title": "Getting Started on new tech",
-            "content_html": "Currently adding new method of creating this site.",
+            "content_html": "<p>Currently adding new method of creating this site.</p>\n<p>Testing out <a title=\"Get Publii\" href=\"https://getpublii.com\" target=\"_blank\" rel=\"noopener noreferrer\">Publii</a>&nbsp;on this site.&nbsp;</p>\n<p>Source is getting saved to cloud drive so I can share with others, then static files are going on <a href=\"http://www.github.com\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a>'s GH Pages system and getting served by them.</p>",
             "image": "http://altmods.com/media/posts/2/14212682_671481723008571_5771237814713032117_n.jpg",
             "author": {
                 "name": "Alexander Leitch"
@@ -36,8 +36,8 @@
             "tags": [
                    "Tech"
             ],
-            "date_published": "2017-09-02T18:09:16+02:00",
-            "date_modified": "2017-08-28T19:41:09+02:00"
+            "date_published": "2017-09-02T18:28:59+02:00",
+            "date_modified": "2017-09-02T18:28:47+02:00"
         }
     ]
 }

@@ -19,9 +19,10 @@
                 "name": "Alexander Leitch"
             },
             "tags": [
+                   "MyPics"
             ],
-            "date_published": "2017-08-31T15:43:54+02:00",
-            "date_modified": "2017-08-31T15:43:41+02:00"
+            "date_published": "2017-09-02T18:09:16+02:00",
+            "date_modified": "2017-09-02T18:04:38+02:00"
         },
         {
             "id": "http://altmods.com/getting-started-on-new-tech/",
@@ -33,9 +34,9 @@
                 "name": "Alexander Leitch"
             },
             "tags": [
-                   "test"
+                   "Tech"
             ],
-            "date_published": "2017-08-31T15:43:54+02:00",
+            "date_published": "2017-09-02T18:09:16+02:00",
             "date_modified": "2017-08-28T19:41:09+02:00"
         }
     ]

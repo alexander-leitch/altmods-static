@@ -3,12 +3,29 @@
     <title>altmods</title>
     <link href="http://altmods.com/feed.xml" rel="self" />
     <link href="http://altmods.com" />
-    <updated>2018-01-10T15:32:13+02:00</updated>
+    <updated>2018-02-20T11:34:58+02:00</updated>
     <author>
         <name>Alexander Leitch</name>
     </author>
     <id>http://altmods.com</id>
 
+    <entry>
+        <title>Look into my eyes</title>
+        <author>
+            <name>Alexander Leitch</name>
+        </author>
+        <link href="http://altmods.com/look-into-my-eyes/"/>
+        <id>http://altmods.com/look-into-my-eyes/</id>
+
+        <updated>2018-02-20T11:26:31+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://altmods.com/media/posts/4/img_00000016_edit.jpg" alt="" />
+                I have nothing to post about, just really want to see if this still works.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Doing things with photo&#x27;s I&#x27;ve taken.</title>
         <author>

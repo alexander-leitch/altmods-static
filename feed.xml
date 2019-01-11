@@ -3,32 +3,12 @@
     <title>AltMods</title>
     <link href="http://altmods.com/feed.xml" rel="self" />
     <link href="http://altmods.com" />
-    <updated>2018-08-13T13:39:36+02:00</updated>
+    <updated>2019-01-11T16:20:29+02:00</updated>
     <author>
         <name>Alexander Leitch</name>
     </author>
     <id>http://altmods.com</id>
 
-    <entry>
-        <title>Gives me feedback it does.</title>
-        <author>
-            <name>Alexander Leitch</name>
-        </author>
-        <link href="http://altmods.com/gives-me-feedback-it-does/"/>
-        <id>http://altmods.com/gives-me-feedback-it-does/</id>
-
-        <updated>2018-07-16T11:33:04+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://altmods.com/media/posts/5/tj-holowaychuk-403737.jpg" alt="Photo by Tj Holowaychuk on Unsplash" />
-                <div class="typeform-widget" style="width: 100%; height: 500px;" data-url="http://alexanderleitch.typeform.com/to/rZEKYO" data-transparency="50" data-hide-headers="true" data-hide-footer="true">&nbsp;</div>
-<div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;">powered by <a style="color: #999;" href="https://admin.typeform.com/signup?utm_campaign=rZEKYO&amp;utm_source=typeform.com-11866174-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" target="_blank" rel="noopener noreferrer">Typeform</a></div>
-<br>
-<p>Inserted a typeform embed above this text but it doesn't display anything :( <br> unsplash-logo<path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path><span style="display: inline-block; padding: 2px 3px;">Tj Holowaychuk</span></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Look into my eyes</title>
         <author>

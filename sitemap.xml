@@ -1,17 +1,39 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://altmods.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>http://altmods.com/</loc>
 </url>
 <url>
 <loc>http://altmods.com/doing-things-with-photos-ive-taken/</loc>
+<lastmod>2017-09-02T18:04:38+02:00</lastmod>
+<image:image>
+<image:loc>http://altmods.com/media/posts/3/img_0560-2.jpg</image:loc>
+<image:title><![CDATA[Gary and some Blonde]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://altmods.com/getting-started-on-new-tech/</loc>
+<lastmod>2017-09-02T18:28:47+02:00</lastmod>
+<image:image>
+<image:loc>http://altmods.com/media/posts/2/14212682_671481723008571_5771237814713032117_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://altmods.com/gives-me-feedback-it-does/</loc>
+<lastmod>2020-09-25T11:13:08+02:00</lastmod>
+<image:image>
+<image:loc>http://altmods.com/media/posts/5/tj-holowaychuk-403737.jpg</image:loc>
+<image:title><![CDATA[Photo by Tj Holowaychuk on Unsplash]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://altmods.com/look-into-my-eyes/</loc>
+<lastmod>2018-02-20T11:26:31+02:00</lastmod>
+<image:image>
+<image:loc>http://altmods.com/media/posts/4/img_00000016_edit.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>

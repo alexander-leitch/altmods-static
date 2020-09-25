@@ -3,22 +3,53 @@
     <title>AltMods</title>
     <link href="http://altmods.com/feed.xml" rel="self" />
     <link href="http://altmods.com" />
-    <updated>2019-01-11T16:29:57+02:00</updated>
+    <updated>2020-09-25T11:13:08+02:00</updated>
     <author>
-        <name>Alexander Leitch</name>
+        <name>James Alexander</name>
     </author>
     <id>http://altmods.com</id>
 
     <entry>
+        <title>Gives me feedback it does.</title>
+        <author>
+            <name>James Alexander</name>
+        </author>
+        <link href="http://altmods.com/gives-me-feedback-it-does/"/>
+        <id>http://altmods.com/gives-me-feedback-it-does/</id>
+
+        <updated>2020-09-25T11:13:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://altmods.com/media/posts/5/tj-holowaychuk-403737.jpg" alt="Photo by Tj Holowaychuk on Unsplash" />
+                     powered by Typeform
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://altmods.com/media/posts/5/tj-holowaychuk-403737.jpg" alt="Photo by Tj Holowaychuk on Unsplash" />
+                <div class="typeform-widget" style="width: 100%; height: 500px;" data-url="https://alexanderleitch.typeform.com/to/rZEKYO"> </div>
+<script>
+(function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()
+</script>
+<div style="font-family: Sans-Serif; font-size: 12px; color: #999; opacity: 0.5; padding-top: 5px;">powered by <a href="https://admin.typeform.com/signup?utm_campaign=rZEKYO&amp;utm_source=typeform.com-11866174-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999;" target="_blank" rel="noopener noreferrer">Typeform</a></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Look into my eyes</title>
         <author>
-            <name>Alexander Leitch</name>
+            <name>James Alexander</name>
         </author>
         <link href="http://altmods.com/look-into-my-eyes/"/>
         <id>http://altmods.com/look-into-my-eyes/</id>
 
         <updated>2018-02-20T11:26:31+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="http://altmods.com/media/posts/4/img_00000016_edit.jpg" alt="" />
+                    I have nothing to post about, just really want to see if&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://altmods.com/media/posts/4/img_00000016_edit.jpg" alt="" />
@@ -29,14 +60,19 @@
     <entry>
         <title>Doing things with photo&#x27;s I&#x27;ve taken.</title>
         <author>
-            <name>Alexander Leitch</name>
+            <name>James Alexander</name>
         </author>
         <link href="http://altmods.com/doing-things-with-photos-ive-taken/"/>
         <id>http://altmods.com/doing-things-with-photos-ive-taken/</id>
             <category term="MyPics"/>
 
         <updated>2017-09-02T18:04:38+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="http://altmods.com/media/posts/3/img_0560-2.jpg" alt="Gary and some Blonde" />
+                    This was one of the photo's I took a little while ago&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://altmods.com/media/posts/3/img_0560-2.jpg" alt="Gary and some Blonde" />
@@ -47,14 +83,19 @@
     <entry>
         <title>Getting Started on new tech</title>
         <author>
-            <name>Alexander Leitch</name>
+            <name>James Alexander</name>
         </author>
         <link href="http://altmods.com/getting-started-on-new-tech/"/>
         <id>http://altmods.com/getting-started-on-new-tech/</id>
             <category term="Tech"/>
 
         <updated>2017-09-02T18:28:47+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="http://altmods.com/media/posts/2/14212682_671481723008571_5771237814713032117_n.jpg" alt="" />
+                    Currently adding new method of creating this site. Testing out Publii&nbsp;on this&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://altmods.com/media/posts/2/14212682_671481723008571_5771237814713032117_n.jpg" alt="" />
